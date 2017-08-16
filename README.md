@@ -15,7 +15,7 @@ Create a JFrame with a JPanel containing the following components.
    jbutton for the user to request all (longestWords) used in this session 
    Note: When displaying in the jlabel separate all the longestWords by commas.
    
-<h3>Instructions<h3>
+<h3>Instructions</h3>
 
 The initial label text should say "Tell me what is on your mind today in 1 sentence.”
 When the user submits their sentence your program should find the longest word in the sentence.
@@ -27,7 +27,7 @@ Display all the “longest” words from the array.
 Tell the user the name of the file containing all the sentences.
 Read the file into a TextArea and display its contents in the GUI - ExtraCredit* 
 
-<h3>Comments to display<h3>
+<h3>Comments to display</h3>
 
 Comments to display to user depending on length of the longest word in their sentence:
 1. If the length of the longest word is 3 characters long your response should be "Why do you feel longestWord  is important?"
@@ -40,7 +40,7 @@ Comments to display to user depending on length of the longest word in their sen
 
 5. If the length of the longest word is less than 3 characters long your response should be "Is there something else you would like to discuss?"
 
-<h3>Result<h3>
+<h3>Result</h3>
 
 
 
