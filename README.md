@@ -5,7 +5,7 @@ In 1996 there was a program named <b>ELIZA</b>.It parodied a psychotherapist ses
 Hints: You will need to know how to work with Strings, Arrays, File I/O, Exceptions, GUI
 
 
-<h3> The GUI<h3>
+<h3> The GUI</h3>
 
 Create a JFrame with a JPanel containing the following components.
    jlabel for displaying the program questions
