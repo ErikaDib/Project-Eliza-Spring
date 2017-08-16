@@ -1,4 +1,4 @@
-# Project-Eliza-Spring
+https://user-images.githubusercontent.com/25781788/29366840-1c7f49dc-8269-11e7-9da1-a3608377c2a7.png# Project-Eliza-Spring
 <h3>PORJECT ELIZA SPRING MIDTERM 2017</h3>
 
 In 1996 there was a program named <b>ELIZA</b>.It parodied a psychotherapist session, such that the user would type sentences and the program used those words to compose a question. Your project will be similar in concept.
@@ -42,8 +42,7 @@ Comments to display to user depending on length of the longest word in their sen
 
 <h3>Result</h3>
 
-
-
+![alt tag](https://user-images.githubusercontent.com/25781788/29366840-1c7f49dc-8269-11e7-9da1-a3608377c2a7.png)
 
 
 
